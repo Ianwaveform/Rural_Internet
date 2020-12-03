@@ -1,7 +1,10 @@
 # AT&T Fixed Home Internet
 Go to [their main site and check availability](https://www.att.com/internet/fixed-wireless/)
 
-## Tablet Plan
+## Other Data Plans
+
+[Connected Car](https://www.att.com/plans/connected-car.html)
+
 
 ## MVNOs
 
@@ -12,3 +15,7 @@ Go to [their main site and check availability](https://www.att.com/internet/fixe
 [Nomad Internet Very Blue Plan](https://nomadinternet.com/pages/plans)
 
 [Viper Broadband Blue Plan](https://www.viperbroadband.com/product/blue-plan/)
+
+## Hardware
+
+[Nighthawk M1](../m1.md)
