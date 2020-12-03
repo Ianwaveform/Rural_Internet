@@ -1,6 +1,9 @@
 ## Routers
 
-[Nighthawk M1100](./m1)
+[Netgear Nighthawk M1100](./m1)
+
+[Netgear LB1120](./lb1120)
+
 
 ## Antennas
 
