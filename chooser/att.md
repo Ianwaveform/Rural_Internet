@@ -18,4 +18,4 @@ Go to [their main site and check availability](https://www.att.com/internet/fixe
 
 ## Hardware
 
-[Nighthawk M1](../m1.md)
+[Nighthawk M1](../hardware/m1.md)
